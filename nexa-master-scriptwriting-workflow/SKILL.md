@@ -1,5 +1,9 @@
 ---
 name: nexa-master-scriptwriting-workflow
+description: Professional NEXA scriptwriting, story development, research, AI video prompts, narration, and production quality assurance.
+---
+---
+name: nexa-master-scriptwriting-workflow
 description: Professional NEXA scriptwriting, story development, research, continuity management, AI-video prompt generation, narration preparation, and final production QA.
 NEXA Master Scriptwriting Workflow
 Purpose
